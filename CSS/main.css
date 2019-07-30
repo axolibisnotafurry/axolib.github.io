@@ -32,14 +32,13 @@ body,
   
   padding-top: 30px;
   padding-right: 50px;
-  padding-bottom: 50px;
+  padding-bottom: 65px;
   padding-left: 50px;
 }
 
 html, body {
     max-width: 100%;
     overflow-x: hidden;
-    padding-bottom: 30px;
 }
 
 body { 
