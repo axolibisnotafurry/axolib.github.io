@@ -1,7 +1,7 @@
 var texts = [
   "AxoLib is a noob.",
   "AxoLib was here.",
-  "AxoLib is .",
+  "AxoLib is not connected to the internet.",
   "AxoLib.tar.gz",
   "AxoLib is never wrong.",
   "AxoLib has about 2 robux.",
