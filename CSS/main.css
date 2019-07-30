@@ -30,10 +30,10 @@ body,
 .body {
   font-family: 'Open Sans', sans-serif;
   
-  padding-top: 30px;
-  padding-right: 30px;
-  padding-bottom: 30px;
-  padding-left: 30px;
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
 }
 
 html, body {
