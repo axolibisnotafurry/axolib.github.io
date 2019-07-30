@@ -25,6 +25,8 @@ body,
   width: 80px;
 }
 
+.left,
+.right,
 .body {
   color: #eae8e8;
   background: #23272A;
