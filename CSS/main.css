@@ -39,6 +39,7 @@ body,
 html, body {
     max-width: 100%;
     overflow-x: hidden;
+    padding-bottom: 30px;
 }
 
 body { 
@@ -76,3 +77,4 @@ footer {
   display: flex;
   align-items: flex-end;
 }
+
