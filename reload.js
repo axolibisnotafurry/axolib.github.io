@@ -1,7 +1,7 @@
 var texts = [
-  "I am a sentence.",
-  "Some nice stuff.",
-  "I am random too!"
+  "AxoLib is a noob.",
+  "AxoLib was here",
+  "AxoLib.exe has stopped working..."
 ];
 
 document.getElementById("content").innerHTML = texts[Math.floor(Math.random()*texts.length)];;
