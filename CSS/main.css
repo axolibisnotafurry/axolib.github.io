@@ -72,7 +72,7 @@ footer {
   text-align: center;
 }
 
-.container {
+.container .footer {
   display: flex;
   align-items: flex-end;
 }
