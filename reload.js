@@ -4,4 +4,4 @@ var texts = [
   "I am random too!"
 ];
 
-document.getElementById('center').value = texts[Math.floor(Math.random()*texts.length)];
+document.getElementById('center').innerHTML = texts[Math.floor(Math.random()*texts.length)];
