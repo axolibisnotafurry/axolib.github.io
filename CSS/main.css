@@ -10,3 +10,13 @@
   left: 50%;
   transform: translateX(-50%) translateY(-50%);
 }
+
+div.container{
+  height: 100%;
+  display: flex;
+}
+
+div.center{
+  height: 100%;
+  display: 1;
+}
