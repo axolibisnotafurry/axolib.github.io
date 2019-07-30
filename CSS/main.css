@@ -71,3 +71,8 @@ footer {
   bottom: 0;
   text-align: center;
 }
+
+.container {
+  display: flex;
+  align-items: flex-end;
+}
