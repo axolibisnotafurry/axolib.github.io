@@ -24,12 +24,11 @@ body,
   background-color: #FFFFFF
 }
 .mydiv {
-  width: 80px;
+  width: 100%;
 }
 
 .body {
   font-family: 'Open Sans', sans-serif;
-  padding: 50
 }
 
 html, body {
