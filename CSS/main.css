@@ -56,3 +56,33 @@ body {
 .left {
   float: left;
 }
+
+#wrapper { 
+    position: relative; 
+    width: 960px; 
+}
+
+#submenu { 
+    position: absolute; 
+    left: 0; 
+    top: 0; 
+    width: 320px; 
+    height: 320px; 
+}
+
+#contact-block { 
+    position: absolute; 
+    left: 0; 
+    bottom: 0; 
+    width: 320px; 
+    height: 160px; 
+}
+
+#content { 
+    position: relative; 
+    left: 320px; 
+    right: 0; 
+    top: 0; 
+    width: 640px; 
+    height: 640px; 
+}
