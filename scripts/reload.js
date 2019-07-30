@@ -1,5 +1,5 @@
-(function newFact() {
-  var facts = ['Fact 1', 'Fact 2', 'Fact 183'];
-  var randomFact = Math.floor(Math.random() * facts.length);
-  document.getElementById('factDisplay').innerHTML = facts[randomFact];
+(function newPhrase() {
+  var phrases = ['AxoLib is a noob', 'AxoLib was here', 'AxoLib.exe has stopped responding...'];
+  var randomPhrase = Math.floor(Math.random() * phrases.length);
+  document.getElementById('center').innerHTML = phrases[randomPhrase];
 })();
