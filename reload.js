@@ -4,4 +4,4 @@ var texts = [
   "AxoLib.exe has stopped working..."
 ];
 
-document.getElementById("content").innerHTML = texts[Math.floor(Math.random()*texts.length)];;
+document.getElementById("center").innerHTML = texts[Math.floor(Math.random()*texts.length)];;
