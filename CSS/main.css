@@ -27,6 +27,9 @@ body,
 .body {
   color: #eae8e8;
   background: #23272A;
-  overflow-x: hidden;
 }
 
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
