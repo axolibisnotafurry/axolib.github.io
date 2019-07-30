@@ -49,6 +49,10 @@ body {
   margin: 0; 
 }
 
+.outer {
+  display: flex;
+  justify-content: center; /* Center content inside */
+}
 .inner {
   align-self: flex-end; /* At the bottom of the parent */
 }
