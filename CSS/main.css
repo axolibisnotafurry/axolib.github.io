@@ -29,8 +29,6 @@ body,
 
 .body {
   font-family: 'Open Sans', sans-serif;
-  padding: 50px;
-  box-sizing: border-box
 }
 
 html, body {
@@ -42,6 +40,6 @@ body {
   color: #eae8e8;
   background: #23272A;
   
-  padding: 0; 
-  margin: 0; 
+  
+  padding:50;  
 }
