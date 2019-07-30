@@ -29,12 +29,7 @@ body,
 
 .body {
   font-family: 'Open Sans', sans-serif;
-  
-  padding-top: 30px;
-  padding-right: 50px;
-  margin-bottom: 50px;
-  padding-left: 50px;
-  position:relative;
+  padding: 50px;
 }
 
 html, body {
